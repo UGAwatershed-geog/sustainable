@@ -1,1 +1,2 @@
-# sustainable
+# Class Project Instructions
+
